@@ -3,7 +3,7 @@ export function LinkLi(props) {
     <li>
       {props.label}{" "}
       <a
-        href={`https://${props.img}`}
+        href={`http://${props.link}`}
         target="_blank"
         rel="noreferrer"
       >
