@@ -16,30 +16,35 @@ function AppUI() {
         <div className="mb-4">
           <h1 className="fw-bolder">Kenet Picado R.</h1>
           <small className="text-muted">
-            Ingeniero en Telemática | Desarrollador Web
+            Ingeniero en Telemática | Desarrollador Web | Desarrollador Laravel
           </small>
         </div>
 
         <Section title="Acerca de">
           <p>
-            Ingeniero en Telemática y Desarrollador Web con vasta experiencia en
-            el desarollo de aplicaciones con{" "}
+            Ingeniero en Telemática y Desarrollador Web con experiencia en el
+            desarollo de aplicaciones con{" "}
             <a href="https://laravel.com/">Laravel. </a>
+            Además de tecnologias para el desarrollado frontend como{" "}
+            <strong>React.js</strong> y <strong>Vue.js. </strong>
+            <br />
             En este sitio podrás ver parte de mis trabajos.
           </p>
         </Section>
 
         <Section title="Proyectos">
-          <Card title="StudentPage" img="sp" technology="Laravel">
-            Sistema web dirígido a colegios privados que ofrecen cursos
-            técnicos. Este sistema cubre todos los sectores, desde el área
-            admnistrativa hasta consulta de notas, con el fin de proporcionar
-            información íntegra y rápida en todo momento.
-            <LinkLi
-              label="Puedes visitarlo en el siguiente enlace:"
-              text="studentpage.ml"
-              link="studentpage.ml"
-            />
+          <Card
+            title="Sistema de Administración de Gimnasios"
+            img="alonso"
+            technology="Laravel - Livewire"
+          >
+            Como su nombre lo indica, esta herramienta es la opción perfecta,
+            completa y profesional para la gestión de gimnasios. Su principal
+            característica es la simpleza y precisión al guardar, obtener y
+            generar información para su posterior análisis.
+            <div class="alert alert-primary small my-3" role="alert">
+              Actualmente presta servicios para Alonso Gym - León, Nic.
+            </div>
           </Card>
           <Card title="Red León" img="rl" technology="Laravel">
             Sistema desarrollado para una empresa privada que ofrece diferentes
@@ -72,20 +77,33 @@ function AppUI() {
               link="cb-develop.tk"
             />
           </Card>
-          <Card
-            title="Sistema de Administración de Gimnasios"
-            img="alonso"
-            technology="Laravel"
-          >
-            Como su nombre lo indica, esta herramienta es la opción perfecta,
-            completa y profesional para la gestión de gimnasios. Su principal
-            característica es la simpleza y precisión al guardar, obtener y
-            generar información para su posterior análisis.
+          <Card title="Roseh Store" img="store" technology="Laravel - Livewire">
+            Sistema construido para la administración de Roseh Store, tienda
+            ubicada en León, Nic. Con el objetivo de gestionar el inventario de
+            una forma eficiente, simple, eficaz e intuitiva, además poder
+            controlar todos los flujos contables de la tienda.
+          </Card>
+          <Card title="StudentPage" img="sp" technology="Laravel">
+            Sistema web dirígido a colegios privados que ofrecen cursos
+            técnicos. Este sistema cubre todos los sectores, desde el área
+            admnistrativa hasta consulta de notas, con el fin de proporcionar
+            información íntegra y rápida en todo momento.
+            <LinkLi
+              label="Puedes visitarlo en el siguiente enlace:"
+              text="studentpage.ml"
+              link="studentpage.ml"
+            />
           </Card>
         </Section>
 
         <div className="mb-4">
-          <p className="text-muted">Este sitio esta construido con React</p>
+          <p>
+            Esto son algunos de mis trabajos más importantes, si quieres ver más
+            te invito a visitar mi perfil en GitHub. 😉️
+          </p>
+          <p className="text-muted small">
+            Este sitio esta construido con React
+          </p>
         </div>
 
         <Section title="Contacto">
