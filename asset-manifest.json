@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.6eb27e4f.js",
+    "main.js": "/static/js/main.004af3e8.js",
+    "static/media/store-3.png": "/static/media/store-3.699d1ec3021cd170c01e.png",
+    "static/media/store-2.png": "/static/media/store-2.23d86b73513ba32aa8fd.png",
     "static/media/sp-2.png": "/static/media/sp-2.372b93be1cea4e820d58.png",
     "static/media/sp-3.png": "/static/media/sp-3.33de1ca6e968d445a618.png",
+    "static/media/store-1.png": "/static/media/store-1.0ed6387081c028ffc544.png",
+    "static/media/d-3.png": "/static/media/d-3.7a10c20928d6e0562166.png",
+    "static/media/alonso-3.png": "/static/media/alonso-3.f9e8c74a820fc674b54a.png",
     "static/media/rl-3.png": "/static/media/rl-3.fd008b8fc27eb1331fbe.png",
-    "static/media/alonso-2.png": "/static/media/alonso-2.826ef51370f7562c9591.png",
+    "static/media/alonso-2.png": "/static/media/alonso-2.ae196a407bb05da9ab48.png",
     "static/media/rl-2.png": "/static/media/rl-2.7af058387a5d37d19653.png",
-    "static/media/alonso-3.png": "/static/media/alonso-3.dcc507846f7841b305f7.png",
     "static/media/sp-1.png": "/static/media/sp-1.f669a0732b921754e1e5.png",
     "static/media/rl-1.png": "/static/media/rl-1.f7dd641bac92c287f1c1.png",
-    "static/media/d-3.png": "/static/media/d-3.88f64880e8636182556e.png",
-    "static/media/alonso-1.png": "/static/media/alonso-1.00eeae46879e1245e48d.png",
-    "static/media/d-1.png": "/static/media/d-1.6d6749f35d4dbb0fbcb9.png",
-    "static/media/d-2.png": "/static/media/d-2.3457cbe61763a6aa1c93.png",
+    "static/media/d-2.png": "/static/media/d-2.043103c55e637587518b.png",
+    "static/media/d-1.png": "/static/media/d-1.6a5f873eefd90f152e1f.png",
+    "static/media/alonso-1.png": "/static/media/alonso-1.940de6ece439b6fcc91d.png",
     "index.html": "/index.html",
-    "main.6eb27e4f.js.map": "/static/js/main.6eb27e4f.js.map"
+    "main.004af3e8.js.map": "/static/js/main.004af3e8.js.map"
   },
   "entrypoints": [
-    "static/js/main.6eb27e4f.js"
+    "static/js/main.004af3e8.js"
   ]
 }
