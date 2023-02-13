@@ -15,9 +15,7 @@ function AppUI() {
       <Container>
         <div className="mb-4">
           <h1 className="fw-bolder">Kenet Picado R.</h1>
-          <small className="text-muted">
-            Ingeniero en Telemática | Desarrollador Web | Desarrollador Laravel
-          </small>
+          <small className="text-muted">Desarrollador Web</small>
         </div>
 
         <Section title="Acerca de">
@@ -55,27 +53,28 @@ function AppUI() {
             general del servicio y el registro de todos los ingresos que los
             servicios conllevan.
           </Card>
-          <Card title="donut" img="d" technology="Laravel">
+          
+          <Card title="donut (Frontend)" img="donut" technology="Vue.js">
             Herramienta dirigida a los estudiantes de la Universidad Nacional
             Autónoma de Nicaragua - León, su objetivo mejorar la experiencia de
             usuario al realizar consulta de calificaciones proporcionando una
             interfaz, simple, intuitiva, amigable y adaptable a cualquier
-            dispositivo. Además, es posible realizar dicha consulta en un rango
-            de años específicos determinados por el usuario y de ese modo
-            proporcionar un resultado más conveniente, funcionalidad de la que
-            carece el{" "}
-            <a
-              href="https://portalestudiantes.unanleon.edu.ni/consulta_estudiantes.php"
-              target="_blank"
-              rel="noreferrer"
-            >
-              sitio oficial.
-            </a>
+            dispositivo.
             <LinkLi
               label="Puedes visitarlo en el siguiente enlace:"
-              text="cb-develop.tk"
-              link="cb-develop.tk"
+              text="donut-notasunan.tk"
+              link="donut-notasunan.tk"
             />
+          </Card>
+          <Card title="donut (API)" img="donutapi" technology="Laravel">
+            Ya que no se cuenta con una API oficial, he construido una propia
+            empleando los principios de Web Scraping, con el fin de obtener la
+            información del estudiante y sus calificaciones en un formato que me
+            permita manipularla.
+            <br />
+            De esa forma es posible utilizar el mismo endpoint para una
+            aplicación móvil o bien cualquier otra tecnología para frontend que
+            permita hacer una petición y obtener la información en formato JSON.
           </Card>
           <Card title="Roseh Store" img="store" technology="Laravel - Livewire">
             Sistema construido para la administración de Roseh Store, tienda
