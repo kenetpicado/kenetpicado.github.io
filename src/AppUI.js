@@ -24,7 +24,7 @@ function AppUI() {
             desarollo de aplicaciones con{" "}
             <a href="https://laravel.com/">Laravel. </a>
             Además de tecnologias para el desarrollado frontend como{" "}
-            <strong>React.js</strong> y <strong>Vue.js. </strong>
+            <strong>Vue.js. </strong>
             <br />
             En este sitio podrás ver parte de mis trabajos.
           </p>
@@ -44,16 +44,7 @@ function AppUI() {
               Actualmente presta servicios para Alonso Gym - León, Nic.
             </div>
           </Card>
-          <Card title="Red León" img="rl" technology="Laravel">
-            Sistema desarrollado para una empresa privada que ofrece diferentes
-            servicios en el área de las telecomunicaciones. El sistema pretende
-            una efectiva administración y gestión de la información relacionada
-            con datos personales de los usuarios, planes contratados, tipos de
-            servicios ofertados, alertas para planes vencidos, la información
-            general del servicio y el registro de todos los ingresos que los
-            servicios conllevan.
-          </Card>
-          
+
           <Card title="donut (Frontend)" img="donut" technology="Vue.js">
             Herramienta dirigida a los estudiantes de la Universidad Nacional
             Autónoma de Nicaragua - León, su objetivo mejorar la experiencia de
@@ -76,11 +67,28 @@ function AppUI() {
             aplicación móvil o bien cualquier otra tecnología para frontend que
             permita hacer una petición y obtener la información en formato JSON.
           </Card>
-          <Card title="Roseh Store" img="store" technology="Laravel - Livewire">
+          <Card title="Roseh Store - Dashboard" img="store" technology="Laravel - Livewire">
             Sistema construido para la administración de Roseh Store, tienda
             ubicada en León, Nic. Con el objetivo de gestionar el inventario de
-            una forma eficiente, simple, eficaz e intuitiva, además poder
-            controlar todos los flujos contables de la tienda.
+            una forma eficiente, simple, eficaz e intuitiva.
+          </Card>
+          <Card title="Roseh Store - Catálogo" img="catalog" technology="Vue">
+            Con el fin de proporcionarle una mejor experiencia a los clientes de la tienda, se ha construido un catálogo de productos que permite una navegación rápida y sencilla.
+            <hr/>
+            <LinkLi
+              label="Puedes visitarlo en el siguiente enlace:"
+              text="rosehstore.tk"
+              link="rosehstore.tk"
+            />
+          </Card>
+          <Card title="Red León" img="rl" technology="Laravel">
+            Sistema desarrollado para una empresa privada que ofrece diferentes
+            servicios en el área de las telecomunicaciones. El sistema pretende
+            una efectiva administración y gestión de la información relacionada
+            con datos personales de los usuarios, planes contratados, tipos de
+            servicios ofertados, alertas para planes vencidos, la información
+            general del servicio y el registro de todos los ingresos que los
+            servicios conllevan.
           </Card>
           <Card title="StudentPage" img="sp" technology="Laravel">
             Sistema web dirígido a colegios privados que ofrecen cursos
@@ -118,6 +126,11 @@ function AppUI() {
               label="LinkedIn:"
               text="kenetpicado"
               link="linkedin.com/in/kenetpicado"
+            />
+            <LinkLi
+              label="Twitter:"
+              text="keops_dev"
+              link="twitter.com/keops_dev"
             />
           </ul>
         </Section>
