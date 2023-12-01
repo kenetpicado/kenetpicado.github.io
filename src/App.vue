@@ -11,11 +11,21 @@
       </div>
 
       <Section title="Acerca de">
-        Ingeniero en Telemática y Desarrollador Web con experiencia en el
-        desarollo de aplicaciones con Laravel, además de tecnologias para el desarrollado frontend como
-        <strong>Vue.js. </strong>
-        <br />
-        En este sitio podrás ver parte de mis trabajos.
+        <p>
+          Ingeniero en Telemática y Desarrollador Web con experiencia en el
+          desarollo de aplicaciones con Laravel, además de tecnologias para el desarrollado frontend como
+          <strong>Vue.js. </strong>
+        </p>
+        <p>
+          He trabajado para empresas internacionales como <a class="text-decoration-none" target="_blank"
+            href="https://www.cashship.com/">Cashship</a> y actualmente trabajo para
+          <a class="text-decoration-none" href="https://www.implementhit.com/" target="_blank">ImplementHIT</a> y <a
+            class="text-decoration-none" href="https://www.facebook.com/onedigitalboutique" target="_blank">One Digital
+            Boutique</a>.
+        </p>
+        <p>
+          En este sitio podrás ver parte de mis trabajos.
+        </p>
       </Section>
 
       <Section title="Proyectos">
@@ -63,7 +73,7 @@
           </div>
         </Card>
 
-        <Card title="CLickAsh" images="luck" technology="Laravel - Inertia">
+        <Card title="ClickAsh" images="luck" technology="Laravel - Inertia">
           <p>Un sistema web integral diseñado para la gestión eficiente de vendedores, transacciones y el seguimiento de
             rifas. Este sistema proporciona a los usuarios una plataforma centralizada para supervisar y optimizar todas
             las
@@ -79,7 +89,8 @@
           </p>
           <div class="alert alert-primary small my-3" role="alert">
             <a class="text-decoration-none"
-              href="https://play.google.com/store/apps/details?id=com.codein.donut&pcampaignid=web_share" target="_blank">
+              href="https://play.google.com/store/apps/details?id=com.strainteam.clickashadmin&pcampaignid=web_share"
+              target="_blank">
               Descarga
             </a> la app y registrate!
           </div>
