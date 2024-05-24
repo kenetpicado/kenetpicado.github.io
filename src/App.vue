@@ -19,9 +19,7 @@
         <p>
           He trabajado para empresas internacionales como <a class="text-decoration-none" target="_blank"
             href="https://www.cashship.com/">Cashship</a> y actualmente trabajo para
-          <a class="text-decoration-none" href="https://www.implementhit.com/" target="_blank">ImplementHIT</a> y <a
-            class="text-decoration-none" href="https://www.facebook.com/onedigitalboutique" target="_blank">One Digital
-            Boutique</a>.
+          <a class="text-decoration-none" href="https://www.implementhit.com/" target="_blank">ImplementHIT</a>
         </p>
         <p>
           En este sitio podrás ver parte de mis trabajos.
